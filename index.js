@@ -1,0 +1,1 @@
+console.log("Hi All, This is my first CI/CD pipelines script!!!")
